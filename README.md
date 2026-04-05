@@ -2,6 +2,20 @@
 
 > Tự động hóa việc học Java từ cơ bản đến nâng cao, hướng tới xây dựng hệ thống lớn như ngân hàng.
 > Mỗi task được nghiên cứu tự động qua OpenClaw cron job.
+> **Toàn bộ nội dung nghiên cứu bằng tiếng Việt.**
+
+## 📝 Yêu cầu nội dung nghiên cứu
+
+Mỗi file research PHẢI viết bằng **tiếng Việt** và tập trung vào:
+
+1. **Lý thuyết cốt lõi** — Bản chất của vấn đề là gì, tại sao tồn tại
+2. **Cơ chế bên trong** — Hoạt động như thế nào ở tầng thấp, chi tiết kỹ thuật
+3. **Mục tiêu thiết kế** — Người tạo ra nó muốn giải quyết vấn đề gì
+4. **So sánh giải pháp** — Có những cách tiếp cận nào, cái nào hơn kém ra sao
+5. **Trade-off** — Đánh đổi cái gì khi chọn giải pháp này (bảo mật vs hiệu năng, đơn giản vs linh hoạt,...)
+6. **Failure modes** — Khi nào nó fail, fail như thế nào, cách phát hiện và xử lý
+7. **Ứng dụng trong hệ thống ngân hàng** — Liên hệ trực tiếp với bài toán thực tế
+8. **Ví dụ code Java** — Code mẫu có comment giải thích chi tiết
 
 ---
 
