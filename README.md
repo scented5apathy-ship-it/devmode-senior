@@ -16,7 +16,7 @@
 
 ## Phase 1: Java Core Mastery (Tuần 1–4)
 
-- [ ] **Task 01** — JVM Architecture: Class Loader, Runtime Data Areas, Execution Engine
+- [x] **Task 01** — JVM Architecture: Class Loader, Runtime Data Areas, Execution Engine
 - [ ] **Task 02** — Memory Model: Heap, Stack, Metaspace, GC Algorithms (G1, ZGC, Shenandoah)
 - [ ] **Task 03** — Concurrency Foundations: Threads, ExecutorService, CompletableFuture, Virtual Threads (Java 21)
 - [ ] **Task 04** — Java Memory Model (JMM): happens-before, volatile, atomic classes, locks
@@ -80,15 +80,15 @@ Completed research files are stored in `/research/` directory:
 
 | # | Topic | File | Status |
 |---|-------|------|--------|
-| — | _(chưa có task nào hoàn thành)_ | — | — |
+| 01 | JVM Architecture: Class Loader, Runtime Data Areas, Execution Engine | research/01-jvm-architecture.md | ✅ |
 
 ---
 
 ## 📊 Progress
 
 - **Total Tasks:** 40
-- **Completed:** 0
-- **Remaining:** 40
+- **Completed:** 1
+- **Remaining:** 39
 - **Current Phase:** Phase 1 — Java Core Mastery
 
 ---
