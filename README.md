@@ -31,7 +31,7 @@ Mỗi file research PHẢI viết bằng **tiếng Việt** và tập trung vào
 ## Phase 1: Java Core Mastery (Tuần 1–4)
 
 - [ ] **Task 01** — JVM Architecture: Class Loader, Runtime Data Areas, Execution Engine
-- [x] **Task 02** — Memory Model: Heap, Stack, Metaspace, GC Algorithms (G1, ZGC, Shenandoah)
+- [ ] **Task 02** — Memory Model: Heap, Stack, Metaspace, GC Algorithms (G1, ZGC, Shenandoah)
 - [ ] **Task 03** — Concurrency Foundations: Threads, ExecutorService, CompletableFuture, Virtual Threads (Java 21)
 - [ ] **Task 04** — Java Memory Model (JMM): happens-before, volatile, atomic classes, locks
 - [ ] **Task 05** — Collections Deep Dive: HashMap internals, ConcurrentHashMap, performance trade-offs
